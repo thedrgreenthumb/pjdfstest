@@ -5,19 +5,17 @@
 ./pjdfstest/tests/chflags/04.t .......... ok
 ./pjdfstest/tests/chflags/05.t .......... ok
 ./pjdfstest/tests/chflags/06.t .......... ok
-./pjdfstest/tests/chflags/07.t .......... 
-Failed 4/93 subtests 
+./pjdfstest/tests/chflags/07.t .......... ok
 ./pjdfstest/tests/chflags/08.t .......... 
-Failed 71/249 subtests 
+Failed 39/249 subtests 
 ./pjdfstest/tests/chflags/09.t .......... 
-Failed 104/327 subtests 
+Failed 52/327 subtests 
 ./pjdfstest/tests/chflags/10.t .......... 
-Failed 22/197 subtests 
+Failed 18/197 subtests 
 ./pjdfstest/tests/chflags/11.t .......... ok
 ./pjdfstest/tests/chflags/12.t .......... ok
 ./pjdfstest/tests/chflags/13.t .......... ok
-./pjdfstest/tests/chmod/00.t ............ 
-Failed 26/203 subtests 
+./pjdfstest/tests/chmod/00.t ............ ok
 ./pjdfstest/tests/chmod/01.t ............ ok
 ./pjdfstest/tests/chmod/02.t ............ ok
 ./pjdfstest/tests/chmod/03.t ............ ok
@@ -28,19 +26,16 @@ Failed 26/203 subtests
 ./pjdfstest/tests/chmod/08.t ............ ok
 ./pjdfstest/tests/chmod/09.t ............ ok
 ./pjdfstest/tests/chmod/10.t ............ ok
-./pjdfstest/tests/chmod/11.t ............ 
-Failed 32/173 subtests 
+./pjdfstest/tests/chmod/11.t ............ ok
 ./pjdfstest/tests/chmod/12.t ............ ok
-./pjdfstest/tests/chown/00.t ............ 
-Failed 276/1349 subtests 
+./pjdfstest/tests/chown/00.t ............ ok
 ./pjdfstest/tests/chown/01.t ............ ok
 ./pjdfstest/tests/chown/02.t ............ ok
 ./pjdfstest/tests/chown/03.t ............ ok
 ./pjdfstest/tests/chown/04.t ............ ok
 ./pjdfstest/tests/chown/05.t ............ ok
 ./pjdfstest/tests/chown/06.t ............ ok
-./pjdfstest/tests/chown/07.t ............ 
-Failed 28/132 subtests 
+./pjdfstest/tests/chown/07.t ............ ok
 ./pjdfstest/tests/chown/08.t ............ ok
 ./pjdfstest/tests/chown/09.t ............ ok
 ./pjdfstest/tests/chown/10.t ............ ok
@@ -66,8 +61,7 @@ Failed 28/132 subtests
 ./pjdfstest/tests/granular/04.t ......... ok
 ./pjdfstest/tests/granular/05.t ......... ok
 ./pjdfstest/tests/granular/06.t ......... ok
-./pjdfstest/tests/link/00.t ............. 
-Failed 18/202 subtests 
+./pjdfstest/tests/link/00.t ............. ok
 ./pjdfstest/tests/link/01.t ............. ok
 ./pjdfstest/tests/link/02.t ............. ok
 ./pjdfstest/tests/link/03.t ............. ok
@@ -150,8 +144,7 @@ Failed 1/17 subtests
 ./pjdfstest/tests/open/23.t ............. ok
 ./pjdfstest/tests/open/24.t ............. ok
 ./pjdfstest/tests/posix_fallocate/00.t .. ok
-./pjdfstest/tests/rename/00.t ........... 
-Failed 2/122 subtests 
+./pjdfstest/tests/rename/00.t ........... ok
 ./pjdfstest/tests/rename/01.t ........... ok
 ./pjdfstest/tests/rename/02.t ........... ok
 ./pjdfstest/tests/rename/03.t ........... ok
@@ -160,10 +153,8 @@ Failed 2/122 subtests
 ./pjdfstest/tests/rename/06.t ........... ok
 ./pjdfstest/tests/rename/07.t ........... ok
 ./pjdfstest/tests/rename/08.t ........... ok
-./pjdfstest/tests/rename/09.t ........... 
-Failed 124/2353 subtests 
-./pjdfstest/tests/rename/10.t ........... 
-Failed 500/2099 subtests 
+./pjdfstest/tests/rename/09.t ........... ok
+./pjdfstest/tests/rename/10.t ........... ok
 ./pjdfstest/tests/rename/11.t ........... ok
 ./pjdfstest/tests/rename/12.t ........... ok
 ./pjdfstest/tests/rename/13.t ........... ok
@@ -232,134 +223,40 @@ Failed 500/2099 subtests
 ./pjdfstest/tests/unlink/08.t ........... ok
 ./pjdfstest/tests/unlink/09.t ........... ok
 ./pjdfstest/tests/unlink/10.t ........... ok
-./pjdfstest/tests/unlink/11.t ........... 
-Failed 40/270 subtests 
+./pjdfstest/tests/unlink/11.t ........... ok
 ./pjdfstest/tests/unlink/12.t ........... ok
 ./pjdfstest/tests/unlink/13.t ........... ok
 ./pjdfstest/tests/unlink/14.t ........... ok
-./pjdfstest/tests/utimensat/00.t ........ 
-Failed 6/32 subtests 
+./pjdfstest/tests/utimensat/00.t ........ ok
 ./pjdfstest/tests/utimensat/01.t ........ ok
 ./pjdfstest/tests/utimensat/02.t ........ ok
-./pjdfstest/tests/utimensat/03.t ........ 
-Failed 1/12 subtests 
+./pjdfstest/tests/utimensat/03.t ........ ok
 ./pjdfstest/tests/utimensat/04.t ........ ok
 ./pjdfstest/tests/utimensat/05.t ........ ok
 ./pjdfstest/tests/utimensat/06.t ........ ok
 ./pjdfstest/tests/utimensat/07.t ........ ok
 ./pjdfstest/tests/utimensat/08.t ........ ok
-./pjdfstest/tests/utimensat/09.t ........ 
-Failed 2/7 subtests 
+./pjdfstest/tests/utimensat/09.t ........ ok
 
 Test Summary Report
 -------------------
-./pjdfstest/tests/chflags/07.t        (Wstat: 0 Tests: 93 Failed: 4)
-  Failed tests:  47, 54, 61, 68
-./pjdfstest/tests/chflags/08.t        (Wstat: 0 Tests: 249 Failed: 71)
+./pjdfstest/tests/chflags/08.t        (Wstat: 0 Tests: 249 Failed: 39)
   Failed tests:  14, 16, 18, 33, 35, 37, 52, 54, 56, 71
-                73, 75, 90, 92, 94, 109, 111, 113, 117-118
-                120, 122-123, 125, 127-128, 130, 132-133
-                136-137, 139, 141-142, 144, 146-147, 149
-                151-152, 155-156, 158, 160-161, 163, 165-166
-                168, 170-171, 174-175, 177, 179-180, 182
-                184-185, 187, 189-190, 204, 206, 208, 223
-                225, 227, 242, 244, 246
-./pjdfstest/tests/chflags/09.t        (Wstat: 0 Tests: 327 Failed: 104)
+                73, 75, 90, 92, 94, 109, 111, 113, 128
+                130, 132, 147, 149, 151, 166, 168, 170
+                185, 187, 189, 204, 206, 208, 223, 225
+                227, 242, 244, 246
+./pjdfstest/tests/chflags/09.t        (Wstat: 0 Tests: 327 Failed: 52)
   Failed tests:  18, 20, 22, 24, 43, 45, 47, 49, 68, 70
                 72, 74, 93, 95, 97, 99, 118, 120, 122, 124
-                143, 145, 147, 149, 153-156, 158, 160-163
-                165, 167-170, 172, 174-175, 178-181, 183
-                185-188, 190, 192-195, 197, 199-200, 203-206
-                208, 210-213, 215, 217-220, 222, 224-225
-                228-231, 233, 235-238, 240, 242-245, 247
-                249-250, 268, 270, 272, 274, 293, 295, 297
-                299, 318, 320, 322, 324
-./pjdfstest/tests/chflags/10.t        (Wstat: 0 Tests: 197 Failed: 22)
+                143, 145, 147, 149, 168, 170, 172, 174
+                193, 195, 197, 199, 218, 220, 222, 224
+                243, 245, 247, 249, 268, 270, 272, 274
+                293, 295, 297, 299, 318, 320, 322, 324
+./pjdfstest/tests/chflags/10.t        (Wstat: 0 Tests: 197 Failed: 18)
   Failed tests:  12, 14, 27, 29, 42, 44, 57, 59, 72, 74
-                87, 89, 93, 108, 123, 138, 162, 164, 177
-                179, 192, 194
-./pjdfstest/tests/chmod/00.t          (Wstat: 0 Tests: 203 Failed: 26)
-  Failed tests:  45-46, 48-50, 55-56, 59-60, 62-64, 69-70
-                115-116, 119-120, 123-124, 127-128, 167
-                171, 175, 179
-./pjdfstest/tests/chmod/11.t          (Wstat: 0 Tests: 173 Failed: 32)
-  Failed tests:  39-40, 42-43, 47-48, 51-52, 54-55, 59-60
-                120-121, 123-126, 130-133, 136-137, 139-142
-                146-149
-./pjdfstest/tests/chown/00.t          (Wstat: 0 Tests: 1349 Failed: 276)
-  Failed tests:  51-53, 56-58, 63-64, 67-69, 72-74, 79-80
-                193-198, 200-202, 204-206, 208-210, 215-220
-                223-228, 230-232, 234-236, 238-240, 245-250
-                351, 353, 355-357, 360-361, 366, 368, 371
-                373, 375-377, 380-381, 386, 388, 527-535
-                537-549, 553-561, 564-572, 574-586, 590-598
-                802-812, 814, 816-831, 833-834, 838-848
-                850, 853-863, 865, 867-882, 884-885, 889-899
-                901, 1042-1047, 1049-1054, 1058-1063, 1066-1071
-                1073-1078, 1082-1087, 1280-1282, 1286-1288
-                1294-1296, 1301-1303, 1307-1309, 1315-1317
-./pjdfstest/tests/chown/07.t          (Wstat: 0 Tests: 132 Failed: 28)
-  Failed tests:  65-69, 71-74, 78-82, 85-89, 91-94, 98-102
-./pjdfstest/tests/link/00.t           (Wstat: 0 Tests: 202 Failed: 18)
-  Failed tests:  63-67, 70-71, 74, 89-93, 96-97, 100, 182
-                189
+                87, 89, 162, 164, 177, 179, 192, 194
 ./pjdfstest/tests/mknod/09.t          (Wstat: 0 Tests: 17 Failed: 1)
   Failed test:  13
-./pjdfstest/tests/rename/00.t         (Wstat: 0 Tests: 122 Failed: 2)
-  Failed tests:  33, 48
-./pjdfstest/tests/rename/09.t         (Wstat: 0 Tests: 2353 Failed: 124)
-  Failed tests:  33, 41, 91, 99, 149, 157, 207, 215, 265
-                273, 315, 318, 321, 324, 357, 360, 363
-                366, 407, 415, 465, 473, 523, 531, 581
-                589, 639, 647, 689, 692, 695, 698, 731
-                734, 737, 740, 757, 760, 768, 776, 781
-                784, 789, 792, 800, 808, 839, 847, 897
-                905, 955, 963, 1013, 1021, 1063, 1066, 1069
-                1072, 1105, 1108, 1111, 1114, 1131, 1134
-                1142, 1150, 1155, 1158, 1163, 1166, 1174
-                1182, 1213, 1221, 1271, 1279, 1329, 1337
-                1387, 1395, 1437, 1440, 1443, 1446, 1479
-                1482, 1485, 1488, 1529, 1537, 1587, 1595
-                1645, 1653, 1703, 1711, 1761, 1769, 1811
-                1814, 1817, 1820, 1853, 1856, 1859, 1862
-                1903, 1911, 1961, 1969, 2019, 2027, 2077
-                2085, 2135, 2143, 2185, 2188, 2191, 2194
-                2227, 2230, 2233, 2236
-./pjdfstest/tests/rename/10.t         (Wstat: 0 Tests: 2099 Failed: 500)
-  Failed tests:  26, 34, 78, 86, 130, 138, 182-186, 188-194
-                196-202, 204-210, 212, 217-222, 224-230
-                232-238, 240-246, 248-254, 256-262, 264
-                269-270, 282, 288, 322, 325, 328, 331, 366
-                374, 418, 426, 470, 478, 522-526, 528-534
-                536-542, 544-550, 552, 557-562, 564-570
-                572-578, 580-586, 588-594, 596-602, 604
-                609-610, 622, 628, 662, 665, 668, 671, 688
-                706, 714, 758, 766, 810, 818, 862-866, 868-874
-                876-882, 884-890, 892, 897-902, 904-910
-                912-918, 920-926, 928-934, 936-942, 944
-                949-950, 962, 968, 1002, 1005, 1008, 1011
-                1028, 1046, 1054, 1098, 1106, 1150, 1158
-                1202-1206, 1208-1214, 1216-1222, 1224-1230
-                1232, 1237-1242, 1244-1250, 1252-1258, 1260-1266
-                1268-1274, 1276-1282, 1284, 1289-1290, 1302
-                1308, 1342, 1345, 1348, 1351, 1386, 1394
-                1438, 1446, 1490, 1498, 1542-1546, 1548-1554
-                1556-1562, 1564-1570, 1572, 1577-1582, 1584-1590
-                1592-1598, 1600-1606, 1608-1614, 1616-1622
-                1624, 1629-1630, 1642, 1648, 1682, 1685
-                1688, 1691, 1726, 1734, 1778, 1786, 1830
-                1838, 1882-1886, 1888-1894, 1896-1902, 1904-1910
-                1912, 1917-1922, 1924-1930, 1932-1938, 1940-1946
-                1948-1954, 1956-1962, 1964, 1969-1970, 1982
-                1988, 2022, 2025, 2028, 2031
-./pjdfstest/tests/unlink/11.t         (Wstat: 0 Tests: 270 Failed: 40)
-  Failed tests:  95-96, 101-102, 107-108, 113-116, 118-122
-                124-125, 132-133, 135, 139-140, 145-146
-                151-152, 157-160, 162-166, 168-169, 176-177
-                179
-./pjdfstest/tests/utimensat/00.t      (Wstat: 0 Tests: 32 Failed: 6)
-  Failed tests:  18-20, 23-25
-./pjdfstest/tests/utimensat/03.t      (Wstat: 0 Tests: 12 Failed: 1)
-  Failed test:  10
-./pjdfstest/tests/utimensat/09.t      (Wstat: 0 Tests: 7 Failed: 2)
-  Failed tests:  4-5
+Files=235, Tests=10053, 329 wallclock secs ( 3.41 usr  1.58 sys + 44.39 cusr 157.88 csys = 207.27 CPU)
+Result: FAIL
